@@ -4,3 +4,4 @@
 .bloop/
 target/
 metals.sbt
+.scala-build/
