@@ -11,7 +11,7 @@
 
 Async demo in different languages and paradigms
 
-ChatGPT proposed the following task: 
+## ChatGPT proposed the following task: 
 
 I need a demo task that exercise asynchronousity in different programming languages. I don't need the solution, just a task.
 
