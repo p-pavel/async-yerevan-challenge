@@ -1,0 +1,23 @@
+# API endpoints
+# The whole program is meant to be used only with GET methods
+endpoint1:
+  url: http://api.weatherapi.com/v1/current.json
+  PARAMS: 
+    key : 123
+    q: Paris
+
+
+endpoint2: 
+  url: https://us1.locationiq.com/v1/search
+  PARAMS: 
+    key: 123
+    q: Statue%20of%20Liberty,%20New%20York
+    format: json
+
+
+endpoint3:
+  url: https://newsapi.org/v2/everything
+  PARAMS:
+    apiKey: 123
+    q: Paris
+
